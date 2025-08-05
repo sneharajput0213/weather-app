@@ -16,4 +16,4 @@ It uses the OpenWeatherMap API to fetch real-time weather data based on city inp
 - OpenWeatherMap API
 
 ## 🌐 Live Demo
-[Click here to try it out]([https://sneharajput0213.github.io/weather-app/])
+[Click here to try it out](https://sneharajput0213.github.io/weather-app/)
